@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearchclient",
+  "version": "1.0.0",
+  "description": "Elasticsearch - client testing",
+  "main": "",
+  "scripts": {},
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "elasticsearch"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "aws-sdk": "^2.445.0",
+    "elasticsearch": "^15.4.1",
+    "http-aws-es": "^6.0.0"
+  },
+  "devDependencies": {}
+}
